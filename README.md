@@ -8,4 +8,6 @@ having python 2.7
 $ git clone *the repo link*
 `
 ## Running
-after downloading open **entertainment_center.py** file and press **F5** 
+after downloading the project and python
+right click on **entertainment_center.py** and chooce edit with *idle* 
+then press **F5** 
