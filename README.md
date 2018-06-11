@@ -9,7 +9,7 @@ $ git clone *the repo link*
 `
 ## Running
 Open your command prompot and type
-`
+```
 cd *path to your file location*
 Python entertainment_center.py
-`
+```
