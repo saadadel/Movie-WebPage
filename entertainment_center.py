@@ -9,13 +9,13 @@ up = media.Movie("Up",
 
 # Logan Movie
 logan = media.Movie("Logan",
-                    "In the near future, a weary Logan (Hugh Jackman) cares for an ailing Professor X (Patrick Stewart) at a remote outpost on the Mexican border."  # NOQA,
+                    "In the near future, a weary Logan (Hugh Jackman) cares for an ailing Professor X (Patrick Stewart) at a remote outpost on the Mexican border.",  # NOQA
                     "https://goo.gl/11zfE6",
                     "https://youtu.be/Div0iP65aZo")
 
 # Inception Movie
 inception = media.Movie("inception",
-                        "Dom Cobb (Leonardo DiCaprio) is a thief with the rare ability to enter people's dreams and steal their secrets from their subconscious"  # NOQA,
+                        "Dom Cobb (Leonardo DiCaprio) is a thief with the rare ability to enter people's dreams and steal their secrets from their subconscious",  # NOQA
                         "https://goo.gl/izwtpq",
                         "https://youtu.be/YoHD9XEInc0")
 
